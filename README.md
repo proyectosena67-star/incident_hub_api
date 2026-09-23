@@ -25,7 +25,8 @@ Sigue estos pasos para clonar y preparar el proyecto en tu entorno local:
 4. npm install
 5. code .
 6. npm install express
-7. npm install -D typescript @types/node @types/express ts-node-dev
+7. npm install -D tsx
+8. npm install -D typescript @types/node @types/express ts-node-dev
 
 ## Ejecución del Proyecto
 npm run dev
