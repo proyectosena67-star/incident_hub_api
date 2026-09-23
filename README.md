@@ -19,9 +19,8 @@ Sigue estos pasos para clonar y preparar el proyecto en tu entorno local:
 
 1. Abrir una PowerShell en una carpeta local del dispositivo o en el escritorio.
 2. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/proyectosena67-star/incident_hub_api.git](https://github.com/proyectosena67-star/incident_hub_api.git)
-
+   en la terminal:
+   git clone https://github.com/proyectosena67-star/incident_hub_api.git
 3. cd incidenthub-api
 4. npm install
 5. code .
